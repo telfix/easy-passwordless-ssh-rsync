@@ -1,6 +1,6 @@
 [![Docker Automated build](https://img.shields.io/docker/automated/telfix/easy-passwordless-ssh-rsync.svg)](https://hub.docker.com/r/telfix/easy-passwordless-ssh-rsync/builds/) 
 ![Docker Build Status](https://img.shields.io/docker/build/telfix/easy-passwordless-ssh-rsync.svg)
-![License](https://img.shields.io/telfix/l/easy-passwordless-ssh-rsync.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # easy-passwordless-ssh-rsync
 Super simple passwordless ssh daemon including rsync
